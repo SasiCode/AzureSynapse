@@ -1,0 +1,7 @@
+{
+	"name": "synapse-ws-custstgacct--securesynapse39-satheeshgen2storage",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/90509376-d7b4-4c47-b75d-23797b1bd109/resourceGroups/Day4RG/providers/Microsoft.Storage/storageAccounts/satheeshgen2storage",
+		"groupId": "dfs"
+	}
+}

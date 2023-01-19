@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sqlOnDemand--securesynapse39",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/90509376-d7b4-4c47-b75d-23797b1bd109/resourceGroups/Day4RG/providers/Microsoft.Synapse/workspaces/securesynapse39",
+		"groupId": "sqlOnDemand",
+		"fqdns": [
+			"securesynapse39-ondemand.b20e7f15-64d9-4040-88cc-0404be29e349.sql.azuresynapse.net"
+		]
+	}
+}
